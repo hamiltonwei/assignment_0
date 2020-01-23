@@ -1,3 +1,3 @@
 using Weave
 
-weave("A0.jmd", doctype = "md2pdf")
+weave("a0answer.jmd", doctype = "md2pdf")
